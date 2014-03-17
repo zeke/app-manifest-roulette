@@ -1,5 +1,5 @@
 var names = ['heroku', 'app', 'package', 'manifest', 'whatever']
-var formats = ['json', 'yml', 'cson', 'xml', 'whatever']
+var formats = ['json', 'jsonx', 'yml', 'cson', 'xml', 'whatever']
 
 var random = function(array) {
   return array[Math.floor(Math.random()*array.length)]
